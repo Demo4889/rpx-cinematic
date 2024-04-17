@@ -4,7 +4,7 @@ Config.Debug = true
 
 Config.Cinematics = {
     ["Intro"] = {
-        MusicEvent = "AB21_BEECHERS_RIDE_SONG_EVENT",
+        MusicEvent = "CACR01_START", -- https://github.com/femga/rdr3_discoveries/blob/master/audio/music_events/music_events.lua
         Cameras = {
             [1] = {
                 Position = vector3(1259.76, -1265.02, 79.20),
